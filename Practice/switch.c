@@ -1,6 +1,6 @@
 //  CSD20045
-// Created by Kittu's Di on 29-12-2020.
-// SORRY
+// Created by Sumit Suman on 29-12-2020.
+// 
 #include<stdio.h>
 int main()
 {
