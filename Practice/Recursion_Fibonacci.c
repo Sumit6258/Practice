@@ -1,6 +1,6 @@
 //
-// Created by Zhefali Ranjan on 30-01-2021.
-//ECE20027
+// Created by Sumit Suman on 30-01-2021.
+//CSD20045
 
 #include<stdio.h>
 int fibo(int);
