@@ -1,6 +1,6 @@
 //
-//Created by Shefali Ranjan on 30-01-2021.
-//ECE20027
+//Created by Sumit Suman on 30-01-2021.
+//
 
 #include<stdio.h>
 int gcd(int, int);
